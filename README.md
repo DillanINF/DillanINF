@@ -1,4 +1,5 @@
 <!-- Header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=header&text=Hi,+I'm+DillanINF!👋&fontSize=30&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
@@ -63,8 +64,9 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/DillanINF/DillanINF/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/DillanINF/DillanINF/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
 
 ---
 
