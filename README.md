@@ -1,5 +1,4 @@
 <!-- Header -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=header&text=Hi,+I'm+DillanINF!👋&fontSize=30&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
@@ -7,17 +6,13 @@
 ---
 
 ## 👨‍💻 About Me
-👋 Hi, my name is Dillan Inf
+👋 Hi, my name is **Dillan Inf**
 
-🎓 I'm a student at SMK Telekomunikasi Telesandi Bekasi
-
-💼 Currently focusing on Fullstack Web Development (Laravel + React/Vue + TailwindCSS)
-
-🏆 Goal: Become a professional Fullstack Developer and contribute to impactful open source projects
-
-📍 Based in Indonesia
-
-⚡ Fun fact: I can spend hours debugging without realizing the time passing 😆
+🎓 Student at **SMK Telekomunikasi Telesandi Bekasi**  
+💼 Currently focusing on **Fullstack Web Development** (Laravel + React/Vue + TailwindCSS)  
+🏆 Goal: Become a **professional Fullstack Developer** and contribute to impactful open-source projects  
+📍 Based in **Indonesia**  
+⚡ Fun fact: I can spend hours debugging without realizing the time passing 😆  
 
 ---
 
@@ -42,8 +37,7 @@
 ## 🛠️ Skills & Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50" height="50"/>
@@ -64,9 +58,8 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DillanINF/DillanINF/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/DillanINF/DillanINF/output/snake.svg" alt="Snake animation"/>
 </p>
-
 
 ---
 
