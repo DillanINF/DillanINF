@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=header&text=Hi,+I'm+DillanINF!👋&fontSize=30&fontColor=ffffff&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=header&text=Hi,+I'm+DillanINF!👋&fontSize=30&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
 
 ---
@@ -19,16 +19,16 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dillan-inf-55a385340/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/dlan12_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://wa.me/6285591022177" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-FF69B4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:dilaninf6@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -50,14 +50,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DillanINF&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=141321" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DillanINF&theme=rose_pine&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&title_color=ff69b4&text_color=ffffff&bg_color=141321" alt="Top Languages"/>
 </p>
 
-<!-- GIF karakter kanan -->
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif"/>
+<!-- GIF karakter kanan, kecil biar tidak ganggu -->
+<p align="center">
+  <img src="https://i.imgflip.com/65efzo.gif" height="120" alt="fun gif"/>
+</p>
 
 ---
 
@@ -70,5 +72,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 </p>
