@@ -37,7 +37,7 @@
 ## 🛠️ Skills & Technologies
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="50" height="50" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
@@ -51,11 +51,18 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=20" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DillanINF&theme=dark&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=141321" height="150" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=DillanINF&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="150" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&title_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=20" height="150" alt="Top Languages"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DillanINF&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
