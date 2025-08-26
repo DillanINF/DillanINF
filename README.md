@@ -6,9 +6,14 @@
 ---
 
 ## 👨‍💻 About Me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+
+<table>
+<tr>
+<td width="60%">
+
+<p align="left">
+  
+⏳ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&vCenter=true&width=450&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
 👋 Hi, my name is **Dillan Inf**  
 
@@ -17,6 +22,17 @@
 🏆 Goal: Become a **Professional Fullstack Developer** and contribute to Open Source  
 📍 Based in **Indonesia**  
 ⚡ Fun fact: I can spend hours debugging without realizing the time passing 😆  
+
+</p>
+
+</td>
+<td width="40%" align="center">
+
+<img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
