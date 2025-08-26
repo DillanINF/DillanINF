@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ff1493&height=120&section=header&text=Hi,+I'm+DillanINF!👋&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ff1493&height=120&section=header&text=Hi,+I'm+DillanINF!👋&fontSize=35&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 🎓 Student at **SMK Telekomunikasi Telesandi Bekasi**  
 💻 Focused on **Fullstack Web Development** (Laravel + React/Vue + TailwindCSS)  
-🏆 Goal: Become a **professional Fullstack Developer** and contribute to open-source  
+🏆 Goal: Become a **Professional Fullstack Developer** and contribute to Open Source  
 📍 Based in **Indonesia**  
 ⚡ Fun fact: I can spend hours debugging without realizing the time passing 😆  
 
@@ -50,11 +50,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=20" height="150" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&title_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=20" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=15" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&title_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=15" height="160" alt="Top Languages"/>
 </p>
 
 ---
