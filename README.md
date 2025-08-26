@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
@@ -50,7 +51,6 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=20" height="150" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=DillanINF&theme=tokyonight&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" height="150" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
