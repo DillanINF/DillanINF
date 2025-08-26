@@ -6,6 +6,10 @@
 ---
 
 ## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 👋 Hi, my name is **Dillan Inf**  
 
 🎓 Student at **SMK Telekomunikasi Telesandi Bekasi**  
@@ -59,13 +63,6 @@
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DillanINF&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DillanINF/DillanINF/output/snake.svg" alt="Snake animation"/>
 </p>
 
 ---
