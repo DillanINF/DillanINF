@@ -56,6 +56,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
 </p>
 
+<!-- GIF karakter kanan -->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif"/>
+
 ---
 
 ## 🐍 Contribution Snake
