@@ -28,7 +28,7 @@
 </td>
 <td width="40%" align="center">
 
-<img height="200" src="https://i.imgflip.com/65efzo.gif" alt="Coding gif"/>
+<img height="200" src="https://github.com/DillanINF/DillanINF/blob/main/takina-lycoris.gif?raw=true" alt="Takina Lycoris Recoil"/>
 
 </td>
 </tr>
