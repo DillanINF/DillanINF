@@ -7,40 +7,34 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<!-- Bagian kiri -->
-<td width="72%" valign="top">
+<div align="center">
 
-⏳ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B5DE5&vCenter=true&width=520&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+<!-- Bagian isi About -->
+<p>
+  ⏳ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B5DE5&vCenter=true&width=520&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-👋 Hi, my name is **Dillan Inf**  
+<p align="left">
+👋 Hi, my name is <b>Dillan Inf</b><br><br>
+🎓 I’m a student at <b>SMK Telekomunikasi Telesandi Bekasi</b>, passionate about building creative and functional web experiences.<br><br>
+💻 I specialize in <b>Fullstack Web Development</b> using <b>Laravel</b>, <b>React</b>, <b>Vue.js</b>, and <b>TailwindCSS</b>. I enjoy turning complex problems into simple, elegant, and efficient solutions.<br><br>
+🌱 I’m constantly learning new technologies, improving UI/UX design skills, and exploring backend logic optimization.<br><br>
+🏆 My goal is to become a <b>Professional Fullstack Developer</b> who not only writes code but also creates real impact through technology.<br><br>
+📍 Based in <b>Indonesia 🇮🇩</b> and open for collaborations or project discussions.<br>
+⚡ Fun fact: I can spend hours debugging and still call it <i>“fun”</i> 😆
+</p>
 
-🎓 I’m a student at **SMK Telekomunikasi Telesandi Bekasi**, passionate about building creative and functional web experiences.  
+<!-- GIF responsive (akan turun ke bawah saat layar kecil) -->
+<p align="center">
+  <img src="https://github.com/DillanINF/DillanINF/blob/main/takina-lycoris1.gif?raw=true" alt="Takina Lycoris Recoil" width="260"/>
+</p>
 
-💻 I specialize in **Fullstack Web Development** using **Laravel**, **React**, **Vue.js**, and **TailwindCSS**.  
-I enjoy turning complex problems into simple, elegant, and efficient solutions.  
-
-🌱 I’m constantly learning new technologies, improving UI/UX design skills, and exploring backend logic optimization.  
-When I’m not coding, I like to explore open-source projects, study system architecture, and experiment with creative front-end animations.  
-
-🏆 My goal is to become a **Professional Fullstack Developer** who not only writes code but also creates real impact through technology.  
-
-📍 Currently based in **Indonesia** 🇮🇩 and open for collaborations or project discussions.  
-⚡ Fun fact: I can spend hours debugging and still call it *“fun”* 😆  
-
-</td>
-
-<!-- GIF kanan center -->
-<td width="28%" align="center" valign="middle" style="padding-right: 20px;">
-  <img height="220" src="https://github.com/DillanINF/DillanINF/blob/main/takina-lycoris1.gif?raw=true" alt="Takina Lycoris Recoil"/>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dillan-inf-55a385340/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -59,20 +53,29 @@ When I’m not coding, I like to explore open-source projects, study system arch
 ---
 
 ## 🛠️ Skills & Technologies
+
 <p align="center">
+  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+
+  <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=9B5DE5&icon_color=B23A48&text_color=ffffff&bg_color=1C1B29&hide_border=true&border_radius=15" height="160" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&title_color=9B5DE5&text_color=ffffff&bg_color=1C1B29&hide_border=true&border_radius=15" height="160" alt="Top Languages"/>
@@ -81,6 +84,7 @@ When I’m not coding, I like to explore open-source projects, study system arch
 ---
 
 ## 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DillanINF&bg_color=1C1B29&color=9B5DE5&line=B23A48&point=D4A373&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
