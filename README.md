@@ -9,27 +9,31 @@
 
 <table>
 <tr>
-<td width="60%">
+<!-- Bagian kiri -->
+<td width="72%" valign="top">
 
-<p align="left">
-
-⏳ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B5DE5&vCenter=true&width=450&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+⏳ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B5DE5&vCenter=true&width=520&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
 👋 Hi, my name is **Dillan Inf**  
 
-🎓 Student at **SMK Telekomunikasi Telesandi Bekasi**  
-💻 Focused on **Fullstack Web Development** (Laravel + React/Vue + TailwindCSS)  
-🏆 Goal: Become a **Professional Fullstack Developer** and contribute to Open Source  
-📍 Based in **Indonesia**  
-⚡ Fun fact: I can spend hours debugging without realizing the time passing 😆  
+🎓 I’m a student at **SMK Telekomunikasi Telesandi Bekasi**, passionate about building creative and functional web experiences.  
 
-</p>
+💻 I specialize in **Fullstack Web Development** using **Laravel**, **React**, **Vue.js**, and **TailwindCSS**.  
+I enjoy turning complex problems into simple, elegant, and efficient solutions.  
+
+🌱 I’m constantly learning new technologies, improving UI/UX design skills, and exploring backend logic optimization.  
+When I’m not coding, I like to explore open-source projects, study system architecture, and experiment with creative front-end animations.  
+
+🏆 My goal is to become a **Professional Fullstack Developer** who not only writes code but also creates real impact through technology.  
+
+📍 Currently based in **Indonesia** 🇮🇩 and open for collaborations or project discussions.  
+⚡ Fun fact: I can spend hours debugging and still call it *“fun”* 😆  
 
 </td>
-<td width="40%" align="center">
 
-<img height="200" src="https://github.com/DillanINF/DillanINF/blob/main/takina-lycoris1.gif?raw=true" alt="Takina Lycoris Recoil"/>
-
+<!-- GIF kanan center -->
+<td width="28%" align="center" valign="middle" style="padding-right: 20px;">
+  <img height="220" src="https://github.com/DillanINF/DillanINF/blob/main/takina-lycoris1.gif?raw=true" alt="Takina Lycoris Recoil"/>
 </td>
 </tr>
 </table>
