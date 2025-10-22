@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ff1493&height=120&section=header&text=Hi,+I'm+DillanINF!👋&fontSize=35&fontColor=ffffff&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B23A48,100:9B5DE5&height=120&section=header&text=Hi,+I'm+DillanINF!👋&fontSize=35&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
 
 ---
@@ -12,8 +12,8 @@
 <td width="60%">
 
 <p align="left">
-  
-⏳ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&vCenter=true&width=450&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+
+⏳ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B5DE5&vCenter=true&width=450&lines=Fullstack+Web+Developer;Laravel+%2B+React%2FVue+%2B+TailwindCSS;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
 👋 Hi, my name is **Dillan Inf**  
 
@@ -39,16 +39,16 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/dillan-inf-55a385340/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-9B5DE5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/dlan12_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-B23A48?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://wa.me/6285591022177" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WhatsApp-D4A373?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
   <a href="mailto:dilaninf6@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-9B5DE5?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -70,20 +70,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=15" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&title_color=ff69b4&text_color=ffffff&bg_color=141321&hide_border=true&border_radius=15" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=9B5DE5&icon_color=B23A48&text_color=ffffff&bg_color=1C1B29&hide_border=true&border_radius=15" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&title_color=9B5DE5&text_color=ffffff&bg_color=1C1B29&hide_border=true&border_radius=15" height="160" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DillanINF&bg_color=141321&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DillanINF&bg_color=1C1B29&color=9B5DE5&line=B23A48&point=D4A373&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ff1493&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B23A48,100:9B5DE5&height=120&section=footer"/>
 </p>
