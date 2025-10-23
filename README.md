@@ -26,7 +26,7 @@
 
 <!-- GIF responsive (akan turun ke bawah saat layar kecil) -->
 <p align="center">
-  <img src="https://github.com/DillanINF/DillanINF/blob/main/takina-lycoris1.gif?raw=true" alt="Takina Lycoris Recoil" width="260"/>
+  <img src="https://github.com/DillanINF/DillanINF/blob/main/takina-lycoris.gif?raw=true" alt="Takina Lycoris Recoil" width="260"/>
 </p>
 
 </div>
