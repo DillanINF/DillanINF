@@ -72,14 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DillanINF&show_icons=true&title_color=9B5DE5&icon_color=B23A48&text_color=ffffff&bg_color=1C1B29&hide_border=true&border_radius=15" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DillanINF&layout=compact&langs_count=6&title_color=9B5DE5&text_color=ffffff&bg_color=1C1B29&hide_border=true&border_radius=15" height="160" alt="Top Languages"/>
-</p>
 
 ---
 
